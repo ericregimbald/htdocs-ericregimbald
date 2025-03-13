@@ -1,2 +1,2 @@
-# htdocs-ericregimbald
-Eric's Personal Website
+# Eric
+A repository for Eric Regimbald's personal website.
