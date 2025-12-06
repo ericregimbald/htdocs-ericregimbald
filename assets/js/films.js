@@ -39,7 +39,7 @@ function renderFilms(list) {
         </h2>
 
         <p class="film-meta">
-          Date read: ${film.dateRead}. 
+          Date watched: ${film.dateRead}. 
           How strongly I recommend it: ${film.rating}/5
         </p>
 
