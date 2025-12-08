@@ -48,7 +48,7 @@
     "director": "Hark Tsui",
     "cover": "/assets/films/time-tide.jpg",
     "dateRead": "2025-11-23",
-    "rating": 3,
+    "rating": ,
     "notes": "Very confusing. But stylish, Fantastic action but I’m baffled.!",
     "letterboxdUrl": "https://letterboxd.com/reggie_redford/film/time-and-tide/",
     "imdbUrl": "https://www.imdb.com/title/tt0251433/"
@@ -74,5 +74,49 @@
     "notes": "Tobe Hooper’s Final Film…",
     "letterboxdUrl": "https://letterboxd.com/reggie_redford/film/djinn-2013/",
     "imdbUrl": "https://www.imdb.com/title/tt9352356/"
-  } 
+  },
+  
+  {
+    "title": "Behind The Mask: The Rise Of Leslie Vernon",
+    "director": "Scott Glosserman",
+    "cover": "/assets/films/behind-the-mask.jpg",
+    "dateRead": "2025-11-18",
+    "rating": 3.5,
+    "notes": "Solid Deconstruction of the genre horror entry. Great to see Robert Englund play a character again that isn’t evil. Fun winks and nods to horror.",
+    "letterboxdUrl": "https://letterboxd.com/reggie_redford/film/behind-the-mask-the-rise-of-leslie-vernon/",
+    "imdbUrl": "https://www.imdb.com/title/tt0437857/"
+  },
+
+  {
+    "title": "Night Terrors",
+    "director": "Tobe Hooper",
+    "cover": "/assets/films/night-terrors.jpg",
+    "dateRead": "2025-11-15",
+    "rating": ,
+    "notes": "This Movie is fucking bonkers. On the surface it seems bad, bad acting bad script, but For any hooper Fan, there’s lots to mine. A historical Exercise in sex cults, archaeology and Loss of innocence...",
+    "letterboxdUrl": "https://letterboxd.com/reggie_redford/film/night-terrors/",
+    "imdbUrl": "https://www.imdb.com/title/tt0108350/"
+  },
+
+  {
+    "title": "The Transporter",
+    "director": "Corey Yuen & Louis Leterrier",
+    "cover": "/assets/films/transporter.jpg",
+    "dateRead": "2025-11-13",
+    "rating": 3,
+    "notes": "This Movie is a vibe!…",
+    "letterboxdUrl": "https://letterboxd.com/reggie_redford/film/the-transporter/",
+    "imdbUrl": "https://www.imdb.com/title/tt0293662/"
+  },
+
+  {
+    "title": "Almost Heros",
+    "director": "Chris Guest",
+    "cover": "/assets/films/alomst-heros.jpg",
+    "dateRead": "2025-11-12",
+    "rating": 3,
+    "notes": "Just A solid 90 min comedy. It’s a familiar 90s greatest hits of gags you’ve seen in other Films of that era. But done in its own way and still hilarious. Apparently this is Christopher Guest’s only Narrative non self aware style film...",
+    "letterboxdUrl": "https://letterboxd.com/reggie_redford/film/almost-heroes/",
+    "imdbUrl": "https://www.imdb.com/title/tt0119053/"
+  }
 ]  
