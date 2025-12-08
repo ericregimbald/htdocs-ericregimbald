@@ -48,7 +48,7 @@
     "director": "Hark Tsui",
     "cover": "/assets/films/time-tide.jpg",
     "dateRead": "2025-11-23",
-    "rating": ,
+    "rating": 0,
     "notes": "Very confusing. But stylish, Fantastic action but I’m baffled.!",
     "letterboxdUrl": "https://letterboxd.com/reggie_redford/film/time-and-tide/",
     "imdbUrl": "https://www.imdb.com/title/tt0251433/"
@@ -92,7 +92,7 @@
     "director": "Tobe Hooper",
     "cover": "/assets/films/night-terrors.jpg",
     "dateRead": "2025-11-15",
-    "rating": ,
+    "rating": 0,
     "notes": "This Movie is fucking bonkers. On the surface it seems bad, bad acting bad script, but For any hooper Fan, there’s lots to mine. A historical Exercise in sex cults, archaeology and Loss of innocence...",
     "letterboxdUrl": "https://letterboxd.com/reggie_redford/film/night-terrors/",
     "imdbUrl": "https://www.imdb.com/title/tt0108350/"
@@ -112,11 +112,33 @@
   {
     "title": "Almost Heros",
     "director": "Chris Guest",
-    "cover": "/assets/films/alomst-heros.jpg",
+    "cover": "/assets/films/almost-heros.jpg",
     "dateRead": "2025-11-12",
     "rating": 3,
     "notes": "Just A solid 90 min comedy. It’s a familiar 90s greatest hits of gags you’ve seen in other Films of that era. But done in its own way and still hilarious. Apparently this is Christopher Guest’s only Narrative non self aware style film...",
     "letterboxdUrl": "https://letterboxd.com/reggie_redford/film/almost-heroes/",
     "imdbUrl": "https://www.imdb.com/title/tt0119053/"
-  }
+  },
+ 
+  {
+    "title": "The Killer",
+    "director": "John Woo",
+    "cover": "/assets/films/the-killer.jpg",
+    "dateRead": "2025-11-10",
+    "rating": 3,
+    "notes": "Woo’s Reload is an elegant departure From his original, different enough… Not better But A serviceable Luc Besson style European actioner I say that with affection...",
+    "letterboxdUrl": "https://letterboxd.com/reggie_redford/film/the-killer-2024/",
+    "imdbUrl": "https://www.imdb.com/title/tt1121948/"
+  },
+  
+  {
+    "title": "V For Vendetta",
+    "director": "James McTeigue",
+    "cover": "/assets/films/vendetta.jpg",
+    "dateRead": "2025-11-05",
+    "rating": 5,
+    "notes": "Powerful, Moving, eye opening, relevant, entertaining. This film hit harder then ever before...",
+    "letterboxdUrl": "https://letterboxd.com/reggie_redford/film/v-for-vendetta/",
+    "imdbUrl": "https://www.imdb.com/title/tt0434409/"
+  }  
 ]  
