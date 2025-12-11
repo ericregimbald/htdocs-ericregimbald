@@ -140,5 +140,60 @@
     "notes": "Powerful, Moving, eye opening, relevant, entertaining. This film hit harder then ever before...",
     "letterboxdUrl": "https://letterboxd.com/reggie_redford/film/v-for-vendetta/",
     "imdbUrl": "https://www.imdb.com/title/tt0434409/"
-  }  
+  },
+  
+  {
+    "title": "Punisher: War Zone",
+    "director": "Lexi Alexander",
+    "cover": "/assets/films/punisher-war-zone.jpg",
+    "dateRead": "2025-11-05",
+    "rating": 2.5,
+    "notes": "If You squint You’ll see Steven Seagal is the punisher in this film. Does it make better ? Maybe...",
+    "letterboxdUrl": "https://letterboxd.com/reggie_redford/film/punisher-war-zone/",
+    "imdbUrl": "https://www.imdb.com/title/tt0450314/"
+  },
+  
+  {
+    "title": "The Punisher",
+    "director": "Jonathan Hensleigh",
+    "cover": "/assets/films/punisher.jpg",
+    "dateRead": "2025-11-04",
+    "rating": 3,
+    "notes": "The first quarter Dark. The 2nd quarter sweet. The third quarter Fun.  All in all  lol still holds up. Actions is solid. Even if it rips off the Mad Max Family murder. ",
+    "letterboxdUrl": "https://letterboxd.com/reggie_redford/film/the-punisher-2004/",
+    "imdbUrl": "https://www.imdb.com/title/tt0330793/"
+  },
+  
+  {
+    "title": "Prophecy",
+    "director": "John Frankenheimer",
+    "cover": "/assets/films/vendetta.jpg",
+    "dateRead": "2025-10-21",
+    "rating": 3.5,
+    "notes": "This movie is shot really well, atmospheric  and is about important topics: corporate environmental pollution, human activism, Indigenous relations to logging companies...",
+    "letterboxdUrl": "https://letterboxd.com/reggie_redford/film/prophecy/",
+    "imdbUrl": "https://www.imdb.com/title/tt0079758/"
+  },
+  
+  {
+    "title": "King Kong",
+    "director": "Peter Jackson",
+    "cover": "/assets/films/king-kong.jpg",
+    "dateRead": "2025-10-21",
+    "rating": 5,
+    "notes": "A masterpiece. A grand adventure. Effects still hold up, a wonderful tribute to the original film while being worth and stands on its own merits...",
+    "letterboxdUrl": "https://letterboxd.com/reggie_redford/film/prophecy/",
+    "imdbUrl": "https://www.imdb.com/title/tt0360717/"
+  },
+
+  {
+    "title": "Raw Deal",
+    "director": "John Irvin",
+    "cover": "/assets/films/raw-deal.jpg",
+    "dateRead": "2025-10-16",
+    "rating": 2.5,
+    "notes": "They gave Schwarzenegger a raw deal… Nobody gives Schwarzenegger a Raw deal...",
+    "letterboxdUrl": "https://letterboxd.com/reggie_redford/film/raw-deal-1986/",
+    "imdbUrl": "https://www.imdb.com/title/tt0091828/"
+  }
 ]  
