@@ -1,5 +1,16 @@
 [
   {
+    "title": "Kill Bill: The Whole Bloody Affair",
+    "director": "Quentin Tarantino",
+    "cover": "/assets/films/kill-bill.jpg",
+    "dateRead": "2025-12-08",
+    "rating": 4,
+    "notes": "The Shaw brothers logo, the grind-house feature  presentation… this is Gahdamn exciting.. the Soundtrack and score slap So Hard! ",
+    "letterboxdUrl": "https://letterboxd.com/reggie_redford/film/kill-bill-the-whole-bloody-affair/",
+    "imdbUrl": "https://www.imdb.com/title/tt6019206/"
+  },
+
+  {
     "title": "Heroes Shed No Tears",
     "director": "John Woo",
     "cover": "/assets/films/heros-shed-no-tears.jpg",
@@ -167,7 +178,7 @@
   {
     "title": "Prophecy",
     "director": "John Frankenheimer",
-    "cover": "/assets/films/vendetta.jpg",
+    "cover": "/assets/films/prophecy.jpg",
     "dateRead": "2025-10-21",
     "rating": 3.5,
     "notes": "This movie is shot really well, atmospheric  and is about important topics: corporate environmental pollution, human activism, Indigenous relations to logging companies...",
@@ -195,5 +206,49 @@
     "notes": "They gave Schwarzenegger a raw deal… Nobody gives Schwarzenegger a Raw deal...",
     "letterboxdUrl": "https://letterboxd.com/reggie_redford/film/raw-deal-1986/",
     "imdbUrl": "https://www.imdb.com/title/tt0091828/"
-  }
+  },
+
+  {
+    "title": "End Of Days",
+    "director": "Peter Hyams",
+    "cover": "/assets/films/end-of-days.jpg",
+    "dateRead": "2025-10-15",
+    "rating": 4,
+    "notes": "In the top 5 Arnold Movies. One of his best performances. It falls into the age old adage is a hero is only as good as villain...",
+    "letterboxdUrl": "https://letterboxd.com/reggie_redford/film/end-of-days/",
+    "imdbUrl": "https://www.imdb.com/title/tt0146675/"
+  },
+
+  {
+    "title": "Phenomena",
+    "director": "Dario Argento",
+    "cover": "/assets/films/phenomena.jpg",
+    "dateRead": "2025-10-13",
+    "rating": 0,
+    "notes": "Very atmospheric, creepy crawlies, A bit of a riff On Susperia. But Welcomed...",
+    "letterboxdUrl": "https://letterboxd.com/reggie_redford/film/phenomena/",
+    "imdbUrl": "https://www.imdb.com/title/tt0087909/"
+  },
+  
+  {
+    "title": "New Nightmare",
+    "director": "Wes Craven",
+    "cover": "/assets/films/new-nightmare.jpg",
+    "dateRead": "2025-10-13",
+    "rating": 5,
+    "notes": "This film is very much about real Horrors. The fear of loosing your family. It’s amazing how...",
+    "letterboxdUrl": "https://letterboxd.com/reggie_redford/film/new-nightmare/",
+    "imdbUrl": "https://www.imdb.com/title/tt0111686/"
+  },
+  
+  {
+    "title": "Wishmaster",
+    "director": "Robert Kurtzman",
+    "cover": "/assets/films/wishmaster.jpg",
+    "dateRead": "2025-10-04",
+    "rating": 0,
+    "notes": "Lots of great practical effects on display. Add in a late 90s Scream like atmosphere.. ",
+    "letterboxdUrl": "https://letterboxd.com/reggie_redford/film/wishmaster/",
+    "imdbUrl": "https://www.imdb.com/title/tt0120524/"
+  } 
 ]  
