@@ -250,5 +250,38 @@
     "notes": "Lots of great practical effects on display. Add in a late 90s Scream like atmosphere.. ",
     "letterboxdUrl": "https://letterboxd.com/reggie_redford/film/wishmaster/",
     "imdbUrl": "https://www.imdb.com/title/tt0120524/"
-  } 
+  },
+  
+  {
+    "title": "A Nightmare on Elm Street: The Dream Child",
+    "director": "Stephen Hopkins",
+    "cover": "/assets/films/dream-child.jpg",
+    "dateRead": "2025-10-03",
+    "rating": 3,
+    "notes": "While you get some great  sequences namely the uncut Motorbike taking over Alice’s boyfriend...",
+    "letterboxdUrl": "https://letterboxd.com/reggie_redford/film/a-nightmare-on-elm-street-the-dream-child/",
+    "imdbUrl": "https://www.imdb.com/title/tt0097981/"
+  },
+
+  {
+    "title": "A Nightmare on Elm Street 4: The Dream Master",
+    "director": "Renny Harlin",
+    "cover": "/assets/films/dream-master.jpg",
+    "dateRead": "2025-10-02",
+    "rating": 4.5,
+    "notes": "The Goldfinger of Freddy Films. In 4K!",
+    "letterboxdUrl": "https://letterboxd.com/reggie_redford/film/a-nightmare-on-elm-street-4-the-dream-master/",
+    "imdbUrl": "https://www.imdb.com/title/tt0095742/"
+  },
+
+  {
+    "title": "Play Dirty",
+    "director": "Shane Black",
+    "cover": "/assets/films/play-dirty.jpg",
+    "dateRead": "2025-10-01",
+    "rating": 2.5,
+    "notes": "Gahdamn I had high hopes for this. But the nice guys it is not. Not even close. But Enjoyable, opening credits were very James Bond style...",
+    "letterboxdUrl": "https://letterboxd.com/reggie_redford/film/play-dirty-2025-1/",
+    "imdbUrl": "https://www.imdb.com/title/tt18392014/"
+  }
 ]  
