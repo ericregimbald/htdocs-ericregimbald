@@ -283,5 +283,38 @@
     "notes": "Gahdamn I had high hopes for this. But the nice guys it is not. Not even close. But Enjoyable, opening credits were very James Bond style...",
     "letterboxdUrl": "https://letterboxd.com/reggie_redford/film/play-dirty-2025-1/",
     "imdbUrl": "https://www.imdb.com/title/tt18392014/"
+  },
+
+  {
+    "title": "A Nightmare on Elm Street 3: Dream Warriors",
+    "director": "Chuck Russel",
+    "cover": "/assets/films/dream-warriors.jpg",
+    "dateRead": "2025-09-30",
+    "rating": 4,
+    "notes": "You know This series is not afraid to kill off its main and characters you care about! Something scream should have done a long time ago. Up the ante, up the stakes!",
+    "letterboxdUrl": "https://letterboxd.com/reggie_redford/film/a-nightmare-on-elm-street-3-dream-warriors/",
+    "imdbUrl": "https://www.imdb.com/title/tt0093629/"
+  },
+
+  {
+    "title": "A Nightmare on Elm Street",
+    "director": "Wes Craven",
+    "cover": "/assets/films/nightmare-elm-street.jpg",
+    "dateRead": "2025-09-30",
+    "rating": 5,
+    "notes": "Wes Craven’s Masterpiece. The atmosphere, the creepin score, the performances The sheer brilliance of the very idea of a dream demon still hold up so strongly today...",
+    "letterboxdUrl": "https://letterboxd.com/reggie_redford/film/a-nightmare-on-elm-street/",
+    "imdbUrl": "https://www.imdb.com/title/tt0087800/"
+  },
+
+  {
+    "title": "Freddy’s Dead: The Final Nightmare",
+    "director": "Rachel Talalay",
+    "cover": "/assets/films/final-nightmare.jpg",
+    "dateRead": "2025-09-27",
+    "rating": 3.5,
+    "notes": "You know what it’s fun. Not taken as a scary horror movie and more as a zainy tour de force...",
+    "letterboxdUrl": "https://letterboxd.com/reggie_redford/film/freddys-dead-the-final-nightmare/",
+    "imdbUrl": "https://www.imdb.com/title/tt18392014/"
   }
 ]  
