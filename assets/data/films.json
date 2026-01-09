@@ -1,5 +1,71 @@
 [
   {
+    "title": "Elf",
+    "director": "Jon Favreau",
+    "cover": "/assets/films/elf.jpg",
+    "dateRead": "2025-12-27",
+    "rating": 4,
+    "notes": "Christmas movies are in a category all on their own. It’s a special time to rewatch favourites that embody the meaning of the yuletide spirit. I hold them up against other Holiday films. A lot of my x-mas rewatches are old favourites from the 90s or before like the Rankin Bass collections. Elf is a modern day Christmas classic! There aren’t many modern ones, (Violent Night is the latest.) It’s humour hits so right, it ticks all the boxes of What’s makes a Christmas movies great! Spirit heart nostalgia. It’s all there. Expertly directed by John Favreau who encompasses his style with old Crooner tunes, New York and like I said swingers/Made humour. Just hilarious! Probably caught Will Ferrell at his peak. Top notch!",
+    "letterboxdUrl": "https://letterboxd.com/reggie_redford/film/elf/",
+    "imdbUrl": "https://www.imdb.com/title/tt0319343/"
+  }, 
+
+  {
+    "title": "Rudolph the Red-Nosed Reindeer",
+    "director": "Larry Roemer",
+    "cover": "/assets/films/rudolph.jpg",
+    "dateRead": "2025-12-21",
+    "rating": 5,
+    "notes": "The original Christmas classic! The heroes journey.",
+    "letterboxdUrl": "https://letterboxd.com/reggie_redford/film/rudolph-the-red-nosed-reindeer/",
+    "imdbUrl": "https://www.imdb.com/title/tt0058536/"
+  },
+
+  {
+    "title": "Violent Night",
+    "director": "Tommy Wirkola",
+    "cover": "/assets/films/violent-night.jpg",
+    "dateRead": "2025-12-21",
+    "rating": 4,
+    "notes": "This film has a great tone! It’s hilarious and has bloody horror (evil dead style) violence in equal measure! The action is super fun and comes from character. I think this Is David Harbour’s best work hands down. Put Home Alone, Die Hard and Christmas Vacation in a Blender, add more violence and more humour and you get this film. It captures the Christmas spirit very well. Best new modern Holiday classic since Elf! Put it on your List! In Glorious 4K!",
+    "letterboxdUrl": "https://letterboxd.com/reggie_redford/film/violent-night/",
+    "imdbUrl": "https://www.imdb.com/title/tt12003946/"
+  },
+
+  {
+    "title": "Santa’s Slay",
+    "director": "David Steiman",
+    "cover": "/assets/films/santas-slay.jpg",
+    "dateRead": "2025-12-19",
+    "rating": 3,
+    "notes": "This movie Is inherently Canadian. Not just cause it’s filmed in Edmonton Alberta, but very much woven in the story. A curling climax at a hockey arena, a hero wearing multiple hockey jerseys. Dave Thomas Saul Rubinek. (Even though it’s an American production and shoe horn some US flags in there) it’s DNA is all Canuck! To its benefit it feels fresh. It’s very Wacky, tonally silly. But lots of Christmas carnage and amusement to be had. Turn off your brain and Fire up A Yule log.",
+    "letterboxdUrl": "https://letterboxd.com/reggie_redford/film/santas-slay/",
+    "imdbUrl": "https://www.imdb.com/title/tt0393685/"
+  },
+
+  {
+    "title": "Reindeer Games",
+    "director": "John Frankenheimer",
+    "cover": "/assets/films/reindeer-games.jpg",
+    "dateRead": "2025-12-18",
+    "rating": 3,
+    "notes": "The Con is On! Fun Christmas action. A funny, wild, snowy atmospheric ride, with inept characters. Not a good guy in sight, but it’s fun to hang out with these losers, and perhaps one can be redeemed. I felt it moved at a brisk pace. The cast is fantastic! Including Clarence Williams the 3rd and Dennis Farina. Not a bad las outing for master of suspense and thrills Mr John Frankenheimer.",
+    "letterboxdUrl": "https://letterboxd.com/reggie_redford/film/reindeer-games/",
+    "imdbUrl": "https://www.imdb.com/title/tt0184858/"
+  },
+
+  {
+    "title": "Curtains",
+    "director": "Richard Ciupka",
+    "cover": "/assets/films/curtains.jpg",
+    "dateRead": "2025-12-18",
+    "rating": 3,
+    "notes": "Joe Bob’s Cold Cruel Christmas viewing. A Canuck horror. Interesting enough. Descent concept, good performances. Well shot. A little slow. Loved John Vernon’s director from hell weirdness. But for my money it’s the use of Burton Cummings’s You saved my soul played  over a horror ice skating scene!..",
+    "letterboxdUrl": "https://letterboxd.com/reggie_redford/film/curtains/",
+    "imdbUrl": "https://www.imdb.com/title/tt0085385/"
+  },
+
+  {
     "title": "Dial Code Santa Claus",
     "director": "René Manzor",
     "cover": "/assets/films/dial-code.jpg",
