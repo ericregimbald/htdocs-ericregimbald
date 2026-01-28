@@ -1,5 +1,16 @@
 [
   {
+    "title": "Breakdown",
+    "director": "Jonathan Mostow",
+    "cover": "/assets/films/breakdown.jpg",
+    "dateRead": "2026-01-09",
+    "rating": 3,
+    "notes": "A Hitchcockian Western…",
+    "letterboxdUrl": "https://letterboxd.com/reggie_redford/film/breakdown/",
+    "imdbUrl": "https://www.imdb.com/title/tt0118771/"
+  }, 
+
+  {
     "title": "Elf",
     "director": "Jon Favreau",
     "cover": "/assets/films/elf.jpg",
